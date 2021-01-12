@@ -1,6 +1,10 @@
 文件内容
 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 add test1
 >>>>>>> parent of c3626d7 (add test2)
+=======
+新增功能1
+>>>>>>> parent of e6dc493 (新增功能1-删除)
