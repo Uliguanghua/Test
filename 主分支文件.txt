@@ -1,4 +1,2 @@
 文件内容
 1
-add test1
-add test2
